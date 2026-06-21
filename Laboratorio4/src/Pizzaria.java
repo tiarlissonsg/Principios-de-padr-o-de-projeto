@@ -1,4 +1,5 @@
 
+//Pratica Laboratorio 4
 interface Pizza {
     String getDescricao();
     double calculaCusto();
@@ -128,5 +129,6 @@ public class Pizzaria {
         System.out.println("PIZZA PORTUGUESA");
         System.out.println("Descrição: " + portuguesa.getDescricao());
         System.out.println("Custo: R$ " + portuguesa.calculaCusto());
+
     }
 }
