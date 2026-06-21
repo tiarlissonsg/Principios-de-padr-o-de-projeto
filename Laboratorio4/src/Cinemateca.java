@@ -1,3 +1,4 @@
+//Pratica Laboratorio 4
 class Amplificador {
     public void liga() {
         System.out.println("Amplificador ligado.");
